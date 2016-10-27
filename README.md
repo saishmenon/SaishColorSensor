@@ -2,6 +2,17 @@
 
 The realtime color sensor using particle photon senses the color of the object that you want the RGB value of and displays it on an OLED display connected to the photon.
 
+## Description
+Devices used:
+1. Particle Photon
+2. Input Device Used - Flora Color Sensor
+3. Output Device Used - OLED Display
+
+Function flow:
+1. The Data (rgb value of the color) from the input color sensor is published to the particle cloud.
+2. The Input Data is then subscribed to and the rgb values are visualized on the bouncing ball. The ball changes its color whenever it gets a new rgb value as it bounces. 
+3. The data published to the cloud is also subscribed and the rgb value is displayed on the OLED display. 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
