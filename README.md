@@ -18,7 +18,7 @@ Things you will need to get this to work:
 
 ### Circuit Diagram
 
-
+![saishColorSensorCircuit](https://raw.githubusercontent.com/saishmenon/SaishColorSensor/master/saishColorSensorCircuit.jpg)
 
 ### Installing
 
