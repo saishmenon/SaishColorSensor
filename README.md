@@ -1,6 +1,6 @@
 # Realtime Color Sensor using Particle Photon
 
-The realtime color sensor using photn senses the color of the object that you want the RGB value of and displays it on an OLED display connected to the photon.
+The realtime color sensor using particle photon senses the color of the object that you want the RGB value of and displays it on an OLED display connected to the photon.
 
 ## Getting Started
 
